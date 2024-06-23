@@ -56,7 +56,7 @@ body, html {
     .about {
         display: flex;
         height: 30vh; /* Set the height of the container */
-        background: #f0f0f0; /* Optional: background color for the about container */
+        background: #b8b00f; /* Optional: background color for the about container */
     }
     
     .about section {
