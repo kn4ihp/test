@@ -58,7 +58,7 @@ body, html {
         height: 30vh; /* Set the height of the container */
         background: #b8b00f; /* Optional: background color for the about container */
     }
-    
+
     .about section {
         flex: 1; /* Each section takes up equal width */
         display: flex;
