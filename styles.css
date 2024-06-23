@@ -34,15 +34,15 @@ body, html {
     height: auto; /* Auto-adjust height */
 }
 .header {
-    background: hwb(111 4% 27%);
+    background: linear-gradient(90deg, green, white, green);
     color: white;
-    position:fixed;
-    top:0;
-    left:0;
-    width:100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     font-size: 20px;
     font-weight: bold;
-    }
+}
 
 .welcome_container {
     display: flex;
