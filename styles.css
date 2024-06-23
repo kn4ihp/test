@@ -53,25 +53,30 @@ body, html {
     background: #680f6e;
     }
 
-    .about {
+.about {
         display: flex;
         height: 30vh; /* Set the height of the container */
         background: #b8b00f; /* Optional: background color for the about container */
     }
 
-    .about section {
-        flex: 1; /* Each section takes up equal width */
-        display: flex;
-        justify-content: center; /* Center content horizontally */
-        align-items: center; /* Center content vertically */
-        padding: 20px; /* Optional: Add some padding inside each section */
+.about section {
+    flex: 1; /* Each section takes up equal width */
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    padding: 20px; /* Optional: Add some padding inside each section */
     }
     
     /* Optional: Styles for the first and second sections if you want them to look different */
-    .about section:first-child {
-        background: #0b8583; /* Light grey background for the first section */
+.about section:first-child {
+    background: #0b8583; /* Light grey background for the first section */
     }
     
-    .about section:last-child {
-        background: #754040; /* Darker grey background for the second section */
+.about section:last-child {
+    background: #754040; /* Darker grey background for the second section */
     }
+.our_team {
+    display: flex;
+    height: 60vh; /* Set the height of the container */
+    background: hsl(176, 43%, 65%); /* Optional: background color for the team container */
+}
