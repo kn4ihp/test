@@ -11,8 +11,8 @@
     font-weight: bold;
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
+/* Responsive adjustments 768 */
+@media (max-width: 900px) {
     .top_nav {
         font-size: 1rem; /* Smaller text on smaller screens */
     }
