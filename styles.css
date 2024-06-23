@@ -1,8 +1,7 @@
 .top_nav {
     display: flex;
     justify-content: space-between;
-    background: #333;
-    color: rgb(14, 213, 51);
+   
     position: fixed;
     top: 0;
     left: 0;
