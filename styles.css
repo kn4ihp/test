@@ -30,7 +30,7 @@ body {
     }
 
 welcome_container {
-    margin-top: 150vh;
+    margin-top: 150%;
     display: flex;
     justify-content: center;
     align-items: center;
