@@ -69,9 +69,9 @@ body, html {
     
     /* Optional: Styles for the first and second sections if you want them to look different */
     .about section:first-child {
-        background: #ddd; /* Light grey background for the first section */
+        background: #0b8583; /* Light grey background for the first section */
     }
     
     .about section:last-child {
-        background: #bbb; /* Darker grey background for the second section */
+        background: #754040; /* Darker grey background for the second section */
     }
