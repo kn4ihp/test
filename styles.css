@@ -1,7 +1,7 @@
 .top_nav {
     display: flex;
     justify-content: space-between;
-    background: linear-gradient(90deg, green, white, green);
+    background: linear-gradient(90deg, rgb(14, 205, 14), white, rgb(14, 205, 14));
     color: rgb(14, 213, 51);
     position: fixed;
     top: 0;
