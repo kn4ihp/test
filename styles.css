@@ -1,7 +1,8 @@
 .top_nav {
     display: flex;
     justify-content: space-between;
-   
+    background: linear-gradient(90deg, green, white, green);
+    color: rgb(14, 213, 51);
     position: fixed;
     top: 0;
     left: 0;
@@ -11,7 +12,7 @@
     font-weight: bold;
 }
 
-/* Responsive adjustments 768 */
+/* Responsive adjustments */
 @media (max-width: 768px) {
     .top_nav {
         font-size: 1rem; /* Smaller text on smaller screens */
