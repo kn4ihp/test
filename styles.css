@@ -52,3 +52,26 @@ body, html {
     height: 100vh;
     background: #680f6e;
     }
+
+    .about {
+        display: flex;
+        height: 30vh; /* Set the height of the container */
+        background: #f0f0f0; /* Optional: background color for the about container */
+    }
+    
+    .about section {
+        flex: 1; /* Each section takes up equal width */
+        display: flex;
+        justify-content: center; /* Center content horizontally */
+        align-items: center; /* Center content vertically */
+        padding: 20px; /* Optional: Add some padding inside each section */
+    }
+    
+    /* Optional: Styles for the first and second sections if you want them to look different */
+    .about section:first-child {
+        background: #ddd; /* Light grey background for the first section */
+    }
+    
+    .about section:last-child {
+        background: #bbb; /* Darker grey background for the second section */
+    }
