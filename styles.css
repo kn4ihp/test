@@ -4,7 +4,6 @@ body {
     text-align: center;
 }
 
-
 .header {
     background: #110101;
     color: white;
@@ -30,3 +29,10 @@ body {
     font-weight: bold;
     }
 
+welcome_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #680f6e;
+    }
