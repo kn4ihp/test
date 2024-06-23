@@ -6,7 +6,7 @@ body {
 
 
 .header {
-    background: #f1f1f1;
+    background: #110101;
     color: white;
     position:fixed;
     top:0;
@@ -19,9 +19,8 @@ body {
 .top_nav {
     display: flex;
     justify-content: space-between;
-
     background: #333;
-    color: rgb(213, 14, 14);
+    color: rgb(14, 213, 51);
     position: fixed;
     top: 0;
     left: 0;
