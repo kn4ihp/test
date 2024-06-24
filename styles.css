@@ -46,12 +46,13 @@ body, html {
 
 .welcome_container {
     display: flex;
+    flex-direction: row;
     margin-top: 0;
     justify-content: center;
     align-items: center;
     height: 60vh;
     background: #680f6e;
-    }
+}
 
 .about {
         display: flex;
