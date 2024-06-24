@@ -34,7 +34,7 @@ body, html {
     height: auto; /* Auto-adjust height */
 }
 .header {
-    background: linear-gradient(90deg, green, white, green);
+    background: linear-gradient(180deg, green, white, green);
     color: white;
     position: fixed;
     top: 0;
